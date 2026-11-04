@@ -194,6 +194,6 @@
     <circle cx="1009" cy="180" r="2.75"/>
 </g>
 <rect x="1035" y="177" width="9" height="15" fill="#70d6b0"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur=".9s" repeatCount="indefinite"/></rect>
-<text x="77" y="216" fill="#7f93a2" font-family="monospace" font-size="12">AI engineering  ·  product building  ·  developer tools  ·  competitive programming</text>
+<text x="77" y="216" fill="#7f93a2" font-family="monospace" font-size="12">Software Developer  ·  AI &amp; Developer Tools  ·  C++ Systems  ·  Chess Programming</text>
 <rect x="3" y="3" width="1194" height="226" rx="15" fill="none" stroke="url(#edge)" stroke-opacity=".4"/>
 </svg>
