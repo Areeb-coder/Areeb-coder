@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250">
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#122833"/><stop offset="1" stop-color="#0a131d"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#70d6b0"/><stop offset="1" stop-color="#55a6d7"/></linearGradient></defs>
+<rect x="2" y="2" width="916" height="246" rx="18" fill="url(#panel)" stroke="#365669" stroke-width="2"/>
+<text x="34" y="50" fill="#70d6b0" font-family="monospace" font-size="13" letter-spacing="3">PLAY THE ENGINE</text>
+<text x="34" y="98" fill="#e9f1f4" font-family="Arial, sans-serif" font-size="34" font-weight="700">KNIGHTFORGE</text>
+<text x="34" y="129" fill="#9fb2bf" font-family="Arial, sans-serif" font-size="16">Choose White or Black. Challenge the original C++ chess engine.</text>
+<rect x="34" y="160" width="270" height="48" rx="8" fill="url(#accent)"/>
+<text x="169" y="190" text-anchor="middle" fill="#061b16" font-family="Arial, sans-serif" font-size="14" font-weight="700">PLAY AGAINST KNIGHTFORGE</text>
+<rect x="688" y="28" width="22" height="22" fill="#d7e2dc"/>
+<rect x="710" y="28" width="22" height="22" fill="#45685d"/>
+<rect x="732" y="28" width="22" height="22" fill="#d7e2dc"/>
+<rect x="754" y="28" width="22" height="22" fill="#45685d"/>
+<rect x="776" y="28" width="22" height="22" fill="#d7e2dc"/>
+<rect x="798" y="28" width="22" height="22" fill="#45685d"/>
+<rect x="820" y="28" width="22" height="22" fill="#d7e2dc"/>
+<rect x="842" y="28" width="22" height="22" fill="#45685d"/>
+<rect x="688" y="50" width="22" height="22" fill="#45685d"/>
+<rect x="710" y="50" width="22" height="22" fill="#d7e2dc"/>
+<rect x="732" y="50" width="22" height="22" fill="#45685d"/>
+<rect x="754" y="50" width="22" height="22" fill="#d7e2dc"/>
+<rect x="776" y="50" width="22" height="22" fill="#45685d"/>
+<rect x="798" y="50" width="22" height="22" fill="#d7e2dc"/>
+<rect x="820" y="50" width="22" height="22" fill="#45685d"/>
+<rect x="842" y="50" width="22" height="22" fill="#d7e2dc"/>
+<rect x="688" y="72" width="22" height="22" fill="#d7e2dc"/>
+<rect x="710" y="72" width="22" height="22" fill="#45685d"/>
+<rect x="732" y="72" width="22" height="22" fill="#d7e2dc"/>
+<rect x="754" y="72" width="22" height="22" fill="#45685d"/>
+<rect x="776" y="72" width="22" height="22" fill="#d7e2dc"/>
+<rect x="798" y="72" width="22" height="22" fill="#45685d"/>
+<rect x="820" y="72" width="22" height="22" fill="#d7e2dc"/>
+<rect x="842" y="72" width="22" height="22" fill="#45685d"/>
+<rect x="688" y="94" width="22" height="22" fill="#45685d"/>
+<rect x="710" y="94" width="22" height="22" fill="#d7e2dc"/>
+<rect x="732" y="94" width="22" height="22" fill="#45685d"/>
+<rect x="754" y="94" width="22" height="22" fill="#d7e2dc"/>
+<rect x="776" y="94" width="22" height="22" fill="#45685d"/>
+<rect x="798" y="94" width="22" height="22" fill="#d7e2dc"/>
+<rect x="820" y="94" width="22" height="22" fill="#45685d"/>
+<rect x="842" y="94" width="22" height="22" fill="#d7e2dc"/>
+<rect x="688" y="116" width="22" height="22" fill="#d7e2dc"/>
+<rect x="710" y="116" width="22" height="22" fill="#45685d"/>
+<rect x="732" y="116" width="22" height="22" fill="#d7e2dc"/>
+<rect x="754" y="116" width="22" height="22" fill="#45685d"/>
+<rect x="776" y="116" width="22" height="22" fill="#d7e2dc"/>
+<rect x="798" y="116" width="22" height="22" fill="#45685d"/>
+<rect x="820" y="116" width="22" height="22" fill="#d7e2dc"/>
+<rect x="842" y="116" width="22" height="22" fill="#45685d"/>
+<rect x="688" y="138" width="22" height="22" fill="#45685d"/>
+<rect x="710" y="138" width="22" height="22" fill="#d7e2dc"/>
+<rect x="732" y="138" width="22" height="22" fill="#45685d"/>
+<rect x="754" y="138" width="22" height="22" fill="#d7e2dc"/>
+<rect x="776" y="138" width="22" height="22" fill="#45685d"/>
+<rect x="798" y="138" width="22" height="22" fill="#d7e2dc"/>
+<rect x="820" y="138" width="22" height="22" fill="#45685d"/>
+<rect x="842" y="138" width="22" height="22" fill="#d7e2dc"/>
+<rect x="688" y="160" width="22" height="22" fill="#d7e2dc"/>
+<rect x="710" y="160" width="22" height="22" fill="#45685d"/>
+<rect x="732" y="160" width="22" height="22" fill="#d7e2dc"/>
+<rect x="754" y="160" width="22" height="22" fill="#45685d"/>
+<rect x="776" y="160" width="22" height="22" fill="#d7e2dc"/>
+<rect x="798" y="160" width="22" height="22" fill="#45685d"/>
+<rect x="820" y="160" width="22" height="22" fill="#d7e2dc"/>
+<rect x="842" y="160" width="22" height="22" fill="#45685d"/>
+<rect x="688" y="182" width="22" height="22" fill="#45685d"/>
+<rect x="710" y="182" width="22" height="22" fill="#d7e2dc"/>
+<rect x="732" y="182" width="22" height="22" fill="#45685d"/>
+<rect x="754" y="182" width="22" height="22" fill="#d7e2dc"/>
+<rect x="776" y="182" width="22" height="22" fill="#45685d"/>
+<rect x="798" y="182" width="22" height="22" fill="#d7e2dc"/>
+<rect x="820" y="182" width="22" height="22" fill="#45685d"/>
+<rect x="842" y="182" width="22" height="22" fill="#d7e2dc"/>
+<text x="699" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♜</text>
+<text x="721" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♞</text>
+<text x="743" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♝</text>
+<text x="765" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♛</text>
+<text x="787" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♚</text>
+<text x="809" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♝</text>
+<text x="831" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♞</text>
+<text x="853" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♜</text>
+<text x="699" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
+<text x="721" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
+<text x="743" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
+<text x="765" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
+<text x="787" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
+<text x="809" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
+<text x="831" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
+<text x="853" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
+<text x="699" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
+<text x="721" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
+<text x="743" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
+<text x="765" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
+<text x="787" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
+<text x="809" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
+<text x="831" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
+<text x="853" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
+<text x="699" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♖</text>
+<text x="721" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♘</text>
+<text x="743" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♗</text>
+<text x="765" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♕</text>
+<text x="787" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♔</text>
+<text x="809" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♗</text>
+<text x="831" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♘</text>
+<text x="853" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♖</text>
+<text x="890" y="229" text-anchor="end" fill="#678395" font-family="monospace" font-size="10">C++17 · WASM · UCI</text></svg>
