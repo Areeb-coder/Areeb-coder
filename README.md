@@ -55,8 +55,15 @@ I'm a **B.Tech Computer Science & Data Science student at Jamia Millia Islamia**
 
 <p align="center">
   <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://leetcode.com/u/RN5rTYgJBE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
+  <a href="https://www.codechef.com/users/major_seren_91"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/areebkhajhdb?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" /></a>
+</p>
+
+### Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/areeb-khalid-960262379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </p>
 
 ## Featured projects
