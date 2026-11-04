@@ -4,9 +4,24 @@
   <img src="assets/coder-room.gif" width="100%" alt="A pixel-art coding room with subtle monitor and steam motion" />
 </p>
 
+I'm a **B.Tech Computer Science & Data Science student at Jamia Millia Islamia**, interested in building practical software across AI, developer tools, automation, and intelligent systems.
+
+- Building AI-assisted products and developer experiences.
+- Exploring algorithms, C++ systems, chess programming, and competitive agents as individual projects.
+- Interested in clean architecture, reproducible testing, and useful automation.
+- I enjoy taking an idea from concept → architecture → prototype → iteration.
+
+> I build things to perfection and pitch them even better.
+
 <div align="center">
 
-<img src="assets/terminal-typing.svg" width="100%" alt="Areeb-coder terminal typing animation" />
+<img src="assets/terminal-typing.svg" width="100%" alt="Animated Areeb-coder ASCII terminal wordmark" />
+
+</div>
+
+<div align="center">
+
+<img src="assets/terminal-image.svg" width="100%" alt="Areeb-coder terminal identity card" />
 
 </div>
 
@@ -19,15 +34,6 @@
 </p>
 
 <div align="center"><sub>Every building represents a day of contributions; taller buildings mean more activity. The city is generated from public GitHub contribution data.</sub></div>
-
-I'm a **B.Tech Computer Science & Data Science student at Jamia Millia Islamia**, interested in building practical software across AI, developer tools, automation, and intelligent systems.
-
-- Building AI-assisted products and developer experiences.
-- Exploring algorithms, C++ systems, chess programming, and competitive agents as individual projects.
-- Interested in clean architecture, reproducible testing, and useful automation.
-- I enjoy taking an idea from concept → architecture → prototype → iteration.
-
-> I build things to perfection and pitch them even better.
 
 
 ## Developer toolkit
