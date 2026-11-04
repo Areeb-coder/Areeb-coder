@@ -19,12 +19,6 @@ I'm a **B.Tech Computer Science & Data Science student at Jamia Millia Islamia**
 
 </div>
 
-<div align="center">
-
-<img src="assets/terminal-image.png" width="100%" alt="Areeb-coder terminal identity card" />
-
-</div>
-
 ---
 
 ## The city I built this year
