@@ -1,3 +1,9 @@
+## Hey, I'm areeb-coder 👋
+
+<p align="center">
+  <img src="assets/coder-room.gif" width="100%" alt="A pixel-art coding room with subtle monitor and steam motion" />
+</p>
+
 <div align="center">
 
 <img src="assets/terminal-typing.svg" width="100%" alt="Areeb-coder terminal typing animation" />
@@ -13,12 +19,6 @@
 </p>
 
 <div align="center"><sub>Every building represents a day of contributions; taller buildings mean more activity. The city is generated from public GitHub contribution data.</sub></div>
-
-## Hey, I'm areeb-coder 👋
-
-<p align="center">
-  <img src="assets/coder-room.gif" width="100%" alt="A pixel-art coding room with subtle monitor and steam motion" />
-</p>
 
 I'm a **B.Tech Computer Science & Data Science student at Jamia Millia Islamia**, interested in building practical software across AI, developer tools, automation, and intelligent systems.
 
