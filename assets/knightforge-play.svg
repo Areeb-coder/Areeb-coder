@@ -1,105 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250">
-<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#122833"/><stop offset="1" stop-color="#0a131d"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#70d6b0"/><stop offset="1" stop-color="#55a6d7"/></linearGradient></defs>
-<rect x="2" y="2" width="916" height="246" rx="18" fill="url(#panel)" stroke="#365669" stroke-width="2"/>
-<text x="34" y="50" fill="#70d6b0" font-family="monospace" font-size="13" letter-spacing="3">PLAY THE ENGINE</text>
-<text x="34" y="98" fill="#e9f1f4" font-family="Arial, sans-serif" font-size="34" font-weight="700">KNIGHTFORGE</text>
-<text x="34" y="129" fill="#9fb2bf" font-family="Arial, sans-serif" font-size="16">Choose White or Black. Challenge the original C++ chess engine.</text>
-<rect x="34" y="160" width="270" height="48" rx="8" fill="url(#accent)"/>
-<text x="169" y="190" text-anchor="middle" fill="#061b16" font-family="Arial, sans-serif" font-size="14" font-weight="700">PLAY AGAINST KNIGHTFORGE</text>
-<rect x="688" y="28" width="22" height="22" fill="#d7e2dc"/>
-<rect x="710" y="28" width="22" height="22" fill="#45685d"/>
-<rect x="732" y="28" width="22" height="22" fill="#d7e2dc"/>
-<rect x="754" y="28" width="22" height="22" fill="#45685d"/>
-<rect x="776" y="28" width="22" height="22" fill="#d7e2dc"/>
-<rect x="798" y="28" width="22" height="22" fill="#45685d"/>
-<rect x="820" y="28" width="22" height="22" fill="#d7e2dc"/>
-<rect x="842" y="28" width="22" height="22" fill="#45685d"/>
-<rect x="688" y="50" width="22" height="22" fill="#45685d"/>
-<rect x="710" y="50" width="22" height="22" fill="#d7e2dc"/>
-<rect x="732" y="50" width="22" height="22" fill="#45685d"/>
-<rect x="754" y="50" width="22" height="22" fill="#d7e2dc"/>
-<rect x="776" y="50" width="22" height="22" fill="#45685d"/>
-<rect x="798" y="50" width="22" height="22" fill="#d7e2dc"/>
-<rect x="820" y="50" width="22" height="22" fill="#45685d"/>
-<rect x="842" y="50" width="22" height="22" fill="#d7e2dc"/>
-<rect x="688" y="72" width="22" height="22" fill="#d7e2dc"/>
-<rect x="710" y="72" width="22" height="22" fill="#45685d"/>
-<rect x="732" y="72" width="22" height="22" fill="#d7e2dc"/>
-<rect x="754" y="72" width="22" height="22" fill="#45685d"/>
-<rect x="776" y="72" width="22" height="22" fill="#d7e2dc"/>
-<rect x="798" y="72" width="22" height="22" fill="#45685d"/>
-<rect x="820" y="72" width="22" height="22" fill="#d7e2dc"/>
-<rect x="842" y="72" width="22" height="22" fill="#45685d"/>
-<rect x="688" y="94" width="22" height="22" fill="#45685d"/>
-<rect x="710" y="94" width="22" height="22" fill="#d7e2dc"/>
-<rect x="732" y="94" width="22" height="22" fill="#45685d"/>
-<rect x="754" y="94" width="22" height="22" fill="#d7e2dc"/>
-<rect x="776" y="94" width="22" height="22" fill="#45685d"/>
-<rect x="798" y="94" width="22" height="22" fill="#d7e2dc"/>
-<rect x="820" y="94" width="22" height="22" fill="#45685d"/>
-<rect x="842" y="94" width="22" height="22" fill="#d7e2dc"/>
-<rect x="688" y="116" width="22" height="22" fill="#d7e2dc"/>
-<rect x="710" y="116" width="22" height="22" fill="#45685d"/>
-<rect x="732" y="116" width="22" height="22" fill="#d7e2dc"/>
-<rect x="754" y="116" width="22" height="22" fill="#45685d"/>
-<rect x="776" y="116" width="22" height="22" fill="#d7e2dc"/>
-<rect x="798" y="116" width="22" height="22" fill="#45685d"/>
-<rect x="820" y="116" width="22" height="22" fill="#d7e2dc"/>
-<rect x="842" y="116" width="22" height="22" fill="#45685d"/>
-<rect x="688" y="138" width="22" height="22" fill="#45685d"/>
-<rect x="710" y="138" width="22" height="22" fill="#d7e2dc"/>
-<rect x="732" y="138" width="22" height="22" fill="#45685d"/>
-<rect x="754" y="138" width="22" height="22" fill="#d7e2dc"/>
-<rect x="776" y="138" width="22" height="22" fill="#45685d"/>
-<rect x="798" y="138" width="22" height="22" fill="#d7e2dc"/>
-<rect x="820" y="138" width="22" height="22" fill="#45685d"/>
-<rect x="842" y="138" width="22" height="22" fill="#d7e2dc"/>
-<rect x="688" y="160" width="22" height="22" fill="#d7e2dc"/>
-<rect x="710" y="160" width="22" height="22" fill="#45685d"/>
-<rect x="732" y="160" width="22" height="22" fill="#d7e2dc"/>
-<rect x="754" y="160" width="22" height="22" fill="#45685d"/>
-<rect x="776" y="160" width="22" height="22" fill="#d7e2dc"/>
-<rect x="798" y="160" width="22" height="22" fill="#45685d"/>
-<rect x="820" y="160" width="22" height="22" fill="#d7e2dc"/>
-<rect x="842" y="160" width="22" height="22" fill="#45685d"/>
-<rect x="688" y="182" width="22" height="22" fill="#45685d"/>
-<rect x="710" y="182" width="22" height="22" fill="#d7e2dc"/>
-<rect x="732" y="182" width="22" height="22" fill="#45685d"/>
-<rect x="754" y="182" width="22" height="22" fill="#d7e2dc"/>
-<rect x="776" y="182" width="22" height="22" fill="#45685d"/>
-<rect x="798" y="182" width="22" height="22" fill="#d7e2dc"/>
-<rect x="820" y="182" width="22" height="22" fill="#45685d"/>
-<rect x="842" y="182" width="22" height="22" fill="#d7e2dc"/>
-<text x="699" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♜</text>
-<text x="721" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♞</text>
-<text x="743" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♝</text>
-<text x="765" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♛</text>
-<text x="787" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♚</text>
-<text x="809" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♝</text>
-<text x="831" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♞</text>
-<text x="853" y="45" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♜</text>
-<text x="699" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
-<text x="721" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
-<text x="743" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
-<text x="765" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
-<text x="787" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
-<text x="809" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
-<text x="831" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
-<text x="853" y="67" text-anchor="middle" fill="#17231f" font-family="DejaVu Sans, serif" font-size="18">♟</text>
-<text x="699" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
-<text x="721" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
-<text x="743" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
-<text x="765" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
-<text x="787" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
-<text x="809" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
-<text x="831" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
-<text x="853" y="199" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♙</text>
-<text x="699" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♖</text>
-<text x="721" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♘</text>
-<text x="743" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♗</text>
-<text x="765" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♕</text>
-<text x="787" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♔</text>
-<text x="809" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♗</text>
-<text x="831" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♘</text>
-<text x="853" y="221" text-anchor="middle" fill="#f8fafc" font-family="DejaVu Sans, serif" font-size="18">♖</text>
-<text x="890" y="229" text-anchor="end" fill="#678395" font-family="monospace" font-size="10">C++17 · WASM · UCI</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="420" viewBox="0 0 1040 420" role="img" aria-labelledby="title desc">
+<title id="title">Play against KnightForge</title><desc id="desc">A clickable preview of the KnightForge chess game with a board styled to match the live game.</desc>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172532"/><stop offset="1" stop-color="#0c141d"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#70d6b0"/><stop offset="1" stop-color="#55a6d7"/></linearGradient></defs>
+<rect x="2" y="2" width="1036" height="416" rx="18" fill="url(#panel)" stroke="#283b4b" stroke-width="2"/>
+<text x="42" y="58" fill="#70d6b0" font-family="monospace" font-size="13" letter-spacing="3">PLAY THE ENGINE</text>
+<text x="42" y="115" fill="#e8eef3" font-family="Arial,sans-serif" font-size="39" font-weight="700">KNIGHTFORGE</text>
+<text x="42" y="153" fill="#a6b5c2" font-family="Arial,sans-serif" font-size="17">Your move. Its search. One board.</text>
+<text x="42" y="198" fill="#d2e2dc" font-family="Arial,sans-serif" font-size="16">Choose your side at the start of each match.</text>
+<rect x="42" y="230" width="278" height="52" rx="8" fill="url(#accent)"/>
+<text x="181" y="262" text-anchor="middle" fill="#0b1914" font-family="Arial,sans-serif" font-size="15" font-weight="700">PLAY AGAINST KNIGHTFORGE</text>
+<text x="42" y="337" fill="#8da1ae" font-family="monospace" font-size="12">C++17  ·  WEBASSEMBLY  ·  UCI</text>
+<text x="42" y="372" fill="#718392" font-family="Arial,sans-serif" font-size="11">Click anywhere on this card to open the game.</text>
+<rect x="600" y="28" width="324" height="324" rx="9" fill="#0a131b" stroke="#354a59" stroke-width="2"/>
+<rect x="610" y="38" width="304" height="304" fill="#547565"/>
+<rect x="610" y="38" width="38" height="38" fill="#d7e2dc"/><rect x="648" y="38" width="38" height="38" fill="#547565"/><rect x="686" y="38" width="38" height="38" fill="#d7e2dc"/><rect x="724" y="38" width="38" height="38" fill="#547565"/><rect x="762" y="38" width="38" height="38" fill="#d7e2dc"/><rect x="800" y="38" width="38" height="38" fill="#547565"/><rect x="838" y="38" width="38" height="38" fill="#d7e2dc"/><rect x="876" y="38" width="38" height="38" fill="#547565"/><rect x="610" y="76" width="38" height="38" fill="#547565"/><rect x="648" y="76" width="38" height="38" fill="#d7e2dc"/><rect x="686" y="76" width="38" height="38" fill="#547565"/><rect x="724" y="76" width="38" height="38" fill="#d7e2dc"/><rect x="762" y="76" width="38" height="38" fill="#547565"/><rect x="800" y="76" width="38" height="38" fill="#d7e2dc"/><rect x="838" y="76" width="38" height="38" fill="#547565"/><rect x="876" y="76" width="38" height="38" fill="#d7e2dc"/><rect x="610" y="114" width="38" height="38" fill="#d7e2dc"/><rect x="648" y="114" width="38" height="38" fill="#547565"/><rect x="686" y="114" width="38" height="38" fill="#d7e2dc"/><rect x="724" y="114" width="38" height="38" fill="#547565"/><rect x="762" y="114" width="38" height="38" fill="#d7e2dc"/><rect x="800" y="114" width="38" height="38" fill="#547565"/><rect x="838" y="114" width="38" height="38" fill="#d7e2dc"/><rect x="876" y="114" width="38" height="38" fill="#547565"/><rect x="610" y="152" width="38" height="38" fill="#547565"/><rect x="648" y="152" width="38" height="38" fill="#d7e2dc"/><rect x="686" y="152" width="38" height="38" fill="#547565"/><rect x="724" y="152" width="38" height="38" fill="#d7e2dc"/><rect x="762" y="152" width="38" height="38" fill="#547565"/><rect x="800" y="152" width="38" height="38" fill="#d7e2dc"/><rect x="838" y="152" width="38" height="38" fill="#547565"/><rect x="876" y="152" width="38" height="38" fill="#d7e2dc"/><rect x="610" y="190" width="38" height="38" fill="#d7e2dc"/><rect x="648" y="190" width="38" height="38" fill="#547565"/><rect x="686" y="190" width="38" height="38" fill="#d7e2dc"/><rect x="724" y="190" width="38" height="38" fill="#547565"/><rect x="762" y="190" width="38" height="38" fill="#d7e2dc"/><rect x="800" y="190" width="38" height="38" fill="#547565"/><rect x="838" y="190" width="38" height="38" fill="#d7e2dc"/><rect x="876" y="190" width="38" height="38" fill="#547565"/><rect x="610" y="228" width="38" height="38" fill="#547565"/><rect x="648" y="228" width="38" height="38" fill="#d7e2dc"/><rect x="686" y="228" width="38" height="38" fill="#547565"/><rect x="724" y="228" width="38" height="38" fill="#d7e2dc"/><rect x="762" y="228" width="38" height="38" fill="#547565"/><rect x="800" y="228" width="38" height="38" fill="#d7e2dc"/><rect x="838" y="228" width="38" height="38" fill="#547565"/><rect x="876" y="228" width="38" height="38" fill="#d7e2dc"/><rect x="610" y="266" width="38" height="38" fill="#d7e2dc"/><rect x="648" y="266" width="38" height="38" fill="#547565"/><rect x="686" y="266" width="38" height="38" fill="#d7e2dc"/><rect x="724" y="266" width="38" height="38" fill="#547565"/><rect x="762" y="266" width="38" height="38" fill="#d7e2dc"/><rect x="800" y="266" width="38" height="38" fill="#547565"/><rect x="838" y="266" width="38" height="38" fill="#d7e2dc"/><rect x="876" y="266" width="38" height="38" fill="#547565"/><rect x="610" y="304" width="38" height="38" fill="#547565"/><rect x="648" y="304" width="38" height="38" fill="#d7e2dc"/><rect x="686" y="304" width="38" height="38" fill="#547565"/><rect x="724" y="304" width="38" height="38" fill="#d7e2dc"/><rect x="762" y="304" width="38" height="38" fill="#547565"/><rect x="800" y="304" width="38" height="38" fill="#d7e2dc"/><rect x="838" y="304" width="38" height="38" fill="#547565"/><rect x="876" y="304" width="38" height="38" fill="#d7e2dc"/><text x="629" y="66.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♜</text><text x="629" y="104.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♟</text><text x="629" y="294.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♙</text><text x="629" y="332.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♖</text><text x="667" y="66.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♞</text><text x="667" y="104.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♟</text><text x="667" y="294.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♙</text><text x="667" y="332.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♘</text><text x="705" y="66.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♝</text><text x="705" y="104.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♟</text><text x="705" y="294.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♙</text><text x="705" y="332.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♗</text><text x="743" y="66.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♛</text><text x="743" y="104.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♟</text><text x="743" y="294.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♙</text><text x="743" y="332.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♕</text><text x="781" y="66.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♚</text><text x="781" y="104.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♟</text><text x="781" y="294.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♙</text><text x="781" y="332.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♔</text><text x="819" y="66.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♝</text><text x="819" y="104.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♟</text><text x="819" y="294.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♙</text><text x="819" y="332.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♗</text><text x="857" y="66.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♞</text><text x="857" y="104.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♟</text><text x="857" y="294.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♙</text><text x="857" y="332.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♘</text><text x="895" y="66.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♜</text><text x="895" y="104.12" text-anchor="middle" fill="#17231f" stroke="#e0e7e2" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♟</text><text x="895" y="294.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♙</text><text x="895" y="332.12" text-anchor="middle" fill="#ffffff" stroke="#45564e" stroke-width=".55" paint-order="stroke" font-family="DejaVu Sans,serif" font-size="29">♖</text><text x="629" y="397" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">a</text><text x="667" y="397" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">b</text><text x="705" y="397" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">c</text><text x="743" y="397" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">d</text><text x="781" y="397" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">e</text><text x="819" y="397" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">f</text><text x="857" y="397" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">g</text><text x="895" y="397" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">h</text><text x="594" y="63.08" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">8</text><text x="594" y="101.08" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">7</text><text x="594" y="139.08" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">6</text><text x="594" y="177.08" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">5</text><text x="594" y="215.08" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">4</text><text x="594" y="253.08" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">3</text><text x="594" y="291.08" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">2</text><text x="594" y="329.08" text-anchor="middle" fill="#8fa2af" font-family="monospace" font-size="10">1</text><text x="1004" y="398" text-anchor="end" fill="#678395" font-family="monospace" font-size="10">KNIGHTFORGE · BROWSER CHESS</text></svg>
