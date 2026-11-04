@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/coder-room.gif" width="100%" alt="A pixel-art coding room with subtle monitor and steam motion" />
-
 <img src="assets/terminal-typing.svg" width="100%" alt="Areeb-coder terminal typing animation" />
 
 </div>
@@ -18,6 +16,10 @@
 
 ## Hey, I'm areeb-coder 👋
 
+<p align="center">
+  <img src="assets/coder-room.gif" width="100%" alt="A pixel-art coding room with subtle monitor and steam motion" />
+</p>
+
 I'm a **B.Tech Computer Science & Data Science student at Jamia Millia Islamia**, interested in building practical software across AI, developer tools, automation, and intelligent systems.
 
 - Building AI-assisted products and developer experiences.
@@ -26,6 +28,7 @@ I'm a **B.Tech Computer Science & Data Science student at Jamia Millia Islamia**
 - I enjoy taking an idea from concept → architecture → prototype → iteration.
 
 > I build things to perfection and pitch them even better.
+
 
 ## Developer toolkit
 
