@@ -110,6 +110,16 @@ I'm a **B.Tech Computer Science & Data Science student at Jamia Millia Islamia**
   </tr>
 </table>
 
+## Open-source leadership
+
+### Writers’ Pub — GSSoC ’26 approved project
+
+I created **Writers’ Pub** and served as its project owner and maintainer after it was selected for the GSSoC ’26 project catalogue. I prepared the repository for community contributions, managed incoming issues, coordinated contributors, and reviewed and merged pull requests.
+
+**Recorded program activity:** 6 merged pull requests carrying the official `gssoc:approved` label, submitted by 5 external contributors during the GSSoC 2026 contribution period.
+
+[Writers’ Pub repository](https://github.com/Areeb-coder/writers-pub) · [GSSoC ’26 project catalogue](https://gssoc.girlscript.org/projects) · [Merged GSSoC-approved pull requests](https://github.com/Areeb-coder/writers-pub/pulls?q=is%3Apr+is%3Amerged+label%3Agssoc%3Aapproved)
+
 ## Play against KnightForge ♟️
 
 <p align="center">
